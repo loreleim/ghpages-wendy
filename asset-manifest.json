@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/loreleim/ghpages-wendy/static/css/main.d1b05096.chunk.css",
-    "main.js": "/loreleim/ghpages-wendy/static/js/main.0be0b4c6.chunk.js",
-    "main.js.map": "/loreleim/ghpages-wendy/static/js/main.0be0b4c6.chunk.js.map",
-    "runtime-main.js": "/loreleim/ghpages-wendy/static/js/runtime-main.4bff3f47.js",
-    "runtime-main.js.map": "/loreleim/ghpages-wendy/static/js/runtime-main.4bff3f47.js.map",
-    "static/js/2.6f73568b.chunk.js": "/loreleim/ghpages-wendy/static/js/2.6f73568b.chunk.js",
-    "static/js/2.6f73568b.chunk.js.map": "/loreleim/ghpages-wendy/static/js/2.6f73568b.chunk.js.map",
-    "index.html": "/loreleim/ghpages-wendy/index.html",
-    "precache-manifest.18567837c07389400e8b1b073e4dca22.js": "/loreleim/ghpages-wendy/precache-manifest.18567837c07389400e8b1b073e4dca22.js",
-    "service-worker.js": "/loreleim/ghpages-wendy/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/loreleim/ghpages-wendy/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.6f73568b.chunk.js.LICENSE.txt": "/loreleim/ghpages-wendy/static/js/2.6f73568b.chunk.js.LICENSE.txt"
+    "main.css": "/ghpages-wendy/static/css/main.d1b05096.chunk.css",
+    "main.js": "/ghpages-wendy/static/js/main.d641844c.chunk.js",
+    "main.js.map": "/ghpages-wendy/static/js/main.d641844c.chunk.js.map",
+    "runtime-main.js": "/ghpages-wendy/static/js/runtime-main.fc0b03b8.js",
+    "runtime-main.js.map": "/ghpages-wendy/static/js/runtime-main.fc0b03b8.js.map",
+    "static/js/2.6f73568b.chunk.js": "/ghpages-wendy/static/js/2.6f73568b.chunk.js",
+    "static/js/2.6f73568b.chunk.js.map": "/ghpages-wendy/static/js/2.6f73568b.chunk.js.map",
+    "index.html": "/ghpages-wendy/index.html",
+    "precache-manifest.da8675236231d889baafd3a5ba974860.js": "/ghpages-wendy/precache-manifest.da8675236231d889baafd3a5ba974860.js",
+    "service-worker.js": "/ghpages-wendy/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/ghpages-wendy/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.6f73568b.chunk.js.LICENSE.txt": "/ghpages-wendy/static/js/2.6f73568b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4bff3f47.js",
+    "static/js/runtime-main.fc0b03b8.js",
     "static/js/2.6f73568b.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.0be0b4c6.chunk.js"
+    "static/js/main.d641844c.chunk.js"
   ]
 }
